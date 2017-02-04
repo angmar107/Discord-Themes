@@ -71,6 +71,7 @@ textarea {
 }
 body::after {
 	font-size: 1vw;
+	font-family: "comic sans"
 	color: red;
 	font-weight: bold;
 	content: 'I WANNA KILL MYSELF';
